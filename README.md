@@ -1,1 +1,2 @@
-# Anagram-Search
+# Anagram Searcher 🧩
+## Welcome to Anagram Explorer 🌐
